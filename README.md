@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://brenda-magg.github.io/dev-business-blog-card/">
       Solution
     </a>
     <span> | </span>
